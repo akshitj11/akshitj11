@@ -14,6 +14,10 @@
 
 
 
-side projects:
+**side projects:**
+
+
 https://legalsathipageindex.vercel.app/
+
+
 https://www.whatsdue.in/
