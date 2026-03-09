@@ -14,10 +14,9 @@
 
 
 
-**side projects:**
 
 
-https://legalsathipageindex.vercel.app/
+<img width="1200" height="700" alt="image" src="https://github.com/user-attachments/assets/843a8ec8-936c-4be3-98c0-29e899638869" />
 
 
-https://www.whatsdue.in/
+
