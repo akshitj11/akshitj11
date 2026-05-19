@@ -1,9 +1,5 @@
 **Building one for me**
-
-**want one ?**
-
-
-**Project Kugelblitz, a mothership**
+**space sovereignty**
 
 
 
